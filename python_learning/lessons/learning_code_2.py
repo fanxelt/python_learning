@@ -19,7 +19,7 @@
 #     present_list.append(input("Введите следующее значение списка "))
 #     i += 1
 #
-# for elem in range(int(len(present_list) / 2)):
+# for element in range(int(len(present_list) / 2)):
 #     present_list[element], present_list[element + 1] = present_list[element + 1], present_list[element]
 #     element += 2
 # print(present_list)
