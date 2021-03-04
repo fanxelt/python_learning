@@ -1,0 +1,2 @@
+computer_science 100 50 20
+literature 20 20 20
